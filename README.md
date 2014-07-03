@@ -1,4 +1,4 @@
-## README: Arduino KK2 Interface
+# Arduino KK2 Interface
 
 The Arduino KK2 Interface is a simple but effective serial driven connection between your computer, arduino and KK2 board.
 
